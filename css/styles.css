@@ -171,13 +171,14 @@ h3 {
     vertical-align: middle;
 }
 
-side-r {
+side-right
+ {
     flex: 1;
 }
 
-side-r div {
+side-right div {
     width: 50%;
-    margin-left: 50%;
+    margin-left: 40%;
 }
 
 .row {
